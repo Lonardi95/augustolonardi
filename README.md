@@ -17,6 +17,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade 
 ### Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/augusto-lonardi-b5757b266/)
+- [Instagram](https://www.instagram.com/augustolonardi/)
 
 ---
 
