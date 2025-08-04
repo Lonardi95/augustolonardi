@@ -31,14 +31,6 @@ Durante o desenvolvimento deste projeto, aprendi a:
 
 ---
 
-## 🧠 Próximos passos
-
-- Adicionar uma interface visual futuramente (via HTML ou outra linguagem)
-- Adaptar o projeto para outras linguagens, como Python ou JavaScript
-- Incluir validação de entrada para evitar notas inválidas
-
----
-
 ## 📸 Exemplo de uso
 
 ```
@@ -47,7 +39,25 @@ Qual a nota da segunda prova? 4.5
 Sua nota média foi de: 5.25  
 Você está de RECUPERAÇÃO.
 ```
-
----
-
-> ✅ Projeto criado como parte dos meus estudos em Análise e Desenvolvimento de Sistemas pela Universidade de Franca (UNIFRAN).
+- Código:
+- algoritmo "aprovacao"
+- var
+-    n1, n2, media: real
+- inicio
+-      Escreva ("Qual a nota da primeira prova? ")
+-      Leia (n1)
+-      Escreva ("Qual a nota da segunda prova? ")
+-      Leia (n2)
+-      media <- (n1+n2)/2
+-      Escreval ("Sua nota média foi de: ", media)
+-      Se (media >= 7:1:2) entao
+-         Escreval ("Você foi APROVADO.")
+-      SENAO
+-           SE (media >= 5) e (<=6.99) entao
+-              Escreval ("Você está de RECUPERAÇÃO.")
+-           Senao
+-                Escreval ("Você foi REPROVADO.")
+-           Fimse
+-      Fimse
+-
+- fimalgoritmo
