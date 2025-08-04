@@ -1,25 +1,25 @@
-# 📘 Projeto: Verificador de Aprovação Escolar (Portugol)
+# Projeto: Verificador de Aprovação Escolar (Portugol)
 
-Este é um projeto simples desenvolvido em **Portugol Studio**, que calcula a média de duas notas e informa se o aluno foi **Aprovado**, **está em Recuperação** ou **foi Reprovado** com base na média.
+Este é um projeto simples desenvolvido em **Portugol**, que calcula a média de duas notas e informa se o aluno foi **Aprovado**, **está em Recuperação** ou **foi Reprovado** com base na média.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo do projeto é aplicar os primeiros conceitos de **variáveis**, **leitura de dados**, **cálculo de média** e **estrutura condicional** em um algoritmo prático e funcional.
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
-- 💻 **Portugol Studio**
-- 📌 Lógica de programação básica
-- 📥 Entrada e saída de dados
-- 🔁 Condicionais (if, else)
+ **Portugol**
+- Lógica de programação básica
+- Entrada e saída de dados
+- Condicionais (if, else)
 
 ---
 
-## 💡 O que eu aprendi
+## O que eu aprendi
 
 Durante o desenvolvimento deste projeto, aprendi a:
 
@@ -31,7 +31,7 @@ Durante o desenvolvimento deste projeto, aprendi a:
 
 ---
 
-## 📸 Exemplo de uso
+## Exemplo de uso
 
 ```
 Qual a nota da primeira prova? 6.0  
@@ -39,7 +39,7 @@ Qual a nota da segunda prova? 4.5
 Sua nota média foi de: 5.25  
 Você está de RECUPERAÇÃO.
 ```
-- Código:
+## Código:
 - algoritmo "aprovacao"
 - var
 -    n1, n2, media: real
